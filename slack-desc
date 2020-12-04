@@ -1,11 +1,11 @@
 mailsend: mailsend (send mail via SMTP)
 mailsend:
 mailsend: Mailsend is a simple program to send mail via SMTP for MS Windows
-mailsend: NT/2000 and Unix/Linux. It is especialy useful for sending mail
+mailsend: NT/2000 and Unix/Linux. It is especially useful for sending mail
 mailsend: from automated tasks when local mail server is not an option.
 mailsend:
 mailsend:
 mailsend:
 mailsend:
-mailsend: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+mailsend: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
 mailsend:
